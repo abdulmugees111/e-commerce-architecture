@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "router",
-    "slug": "router",
+    "name": "e-commerce-architecture",
+    "slug": "e-commerce-architecture",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "router",
+    "scheme": "e-commerce-architecture",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
